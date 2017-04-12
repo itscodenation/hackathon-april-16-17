@@ -1,4 +1,4 @@
-**Google Watertower Hackathon May 2017**
+# Google Watertower Hackathon May 2017
 ![Imgur](http://i.imgur.com/QOv1t3n.gif)
 
 **Submit Projects Here**
