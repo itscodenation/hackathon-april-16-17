@@ -1,20 +1,18 @@
-#Google Watertower Hackathon May 2017
+**Google Watertower Hackathon May 2017**
+
+**Submit Projects Here**
+[Project Submission Form](https://goo.gl/forms/79zfz1urgmhFONZs2)
+**Project must be submitted before 5:00pm**
 
 
+All submitted project can be found [here](https://docs.google.com/spreadsheets/d/10dPJTzHmFB7pnjJojIJWIicyIcJ8qMIney1vXQEK7rk/edit?usp=sharing)
 
-##Submit Projects Here
-**[Project Submission Form](https://goo.gl/forms/Uvv4PpcCYJS6sayj2)**  
-Project must be submitted before 5:00pm
+**Prizes**
 
-
-All submitted project can be found [here](https://docs.google.com/spreadsheets/d/15cw_YZy6nLqiJMGp4dfAgyeIJLFbpXmgr7vqa77fG6Y/edit?usp=sharing)
+TDB
 
 
-##Prizes
-TBD
-
-
-##Schedule
+**Schedule**
 
 Time                | Activity         
 --------------------|------------------
