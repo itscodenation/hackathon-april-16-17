@@ -8,7 +8,7 @@ You will use your coding skills, your creativity, your experiences to design pro
 
 
 ##Hackathon Sites
-[Google: 5th floor](location/google5thFloor.md)| [Google: 14th floor](location/google14thFloor.md)| 
+[Google: 5th floor](location/Watertower.md)| [Google: 14th floor](location/Spire.md)| 
 --------------------|------------------|---------------|
 
 ##Cloud 9 Sign Ups
