@@ -17,6 +17,7 @@ TBD
 ##Schedule
 Time         | Activity        | 
 --------------------|------------------|
+
 9:30am | Volunteer and Student Ice Breakers   |
 
 10:00am       | Welcome Talk    | 
