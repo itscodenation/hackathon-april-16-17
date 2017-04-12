@@ -2,6 +2,7 @@
 ![Imgur](http://i.imgur.com/RecSfOa.jpg)
 
 ##Theme: SUPER SEKRIT THEME WILL BE REVEALED ON HACKATHON DAY
+
 You will use your coding skills, your creativity, your experiences to design projects that will address the theme.   
 
 
@@ -11,6 +12,7 @@ You will use your coding skills, your creativity, your experiences to design pro
 --------------------|------------------|---------------|
 
 ##Cloud 9 Sign Ups
+
 If your team decides to use Cloud 9 during the hackathon please use [this slideshow](https://docs.google.com/presentation/d/1HttvmHhhCrb7ORso0HWFuXZfucHvZ450OlO3OONDcLo/edit#slide=id.g14ecb9111c_1_0) to help at least one member of the team sign up for Cloud 9. 
 
 ##Judging Rubric
