@@ -1,4 +1,5 @@
 **Google Spire Hackathon May 2017**
+![Imgur](http://i.imgur.com/QOv1t3n.gif)
 
 **Submit Projects Here**
 [Project Submission Form](https://goo.gl/forms/79zfz1urgmhFONZs2)
