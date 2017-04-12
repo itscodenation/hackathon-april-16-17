@@ -2,11 +2,12 @@
 ![Imgur](http://i.imgur.com/QOv1t3n.gif)
 
 **Submit Projects Here**
-[Project Submission Form](https://goo.gl/forms/79zfz1urgmhFONZs2)
+[Project Submission Form](https://goo.gl/forms/I44mp3canjv4n5sp2)
+
 **Project must be submitted before 5:00pm**
 
 
-All submitted project can be found [here](https://docs.google.com/spreadsheets/d/10dPJTzHmFB7pnjJojIJWIicyIcJ8qMIney1vXQEK7rk/edit?usp=sharing)
+All submitted project can be found [here](https://docs.google.com/spreadsheets/d/1mi8pp4cjW0-C8H-k69hu5xB9OqXeZo3mhULRRtDcp24/edit#gid=1903632009)
 
 **Prizes**
 
