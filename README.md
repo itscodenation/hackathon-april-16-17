@@ -20,3 +20,9 @@ If your team decides to use Cloud 9 during the hackathon please use [this slides
 
 All teams will be judged on [this rubric](https://docs.google.com/document/d/1aNSaik7e9w98FCVOgIyg_HmHGahcJ_B7nmeuXrC9jpE/edit)
 
+**Social Media**
+
+We will be doing a raffle at the end of the day so submit via twitter & instagram using #scriptedhackathon or tag us @scriptedorg
+
+![@ScriptEdOrg on Twitter](http://i.imgur.com/M3ofIpW.jpg) ![@ScriptEdOrg on Instagram](http://i.imgur.com/jYKXOgJ.jpg) ![@ScriptEdOrg on Snapchat](http://i.imgur.com/Y7kWLen.jpg)
+
