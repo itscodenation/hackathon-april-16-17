@@ -30,3 +30,11 @@ Time                | Activity
 6:50pm              | Judges deliberate 
 7:10pm              | Prizes awarded 
 7:45pm              | Clean up 
+
+
+**Social Media**
+
+We will be doing a raffle at the end of the day so submit via twitter & instagram using #scriptedhackathon or tag us @scriptedorg
+
+![@ScriptEdOrg on Twitter](http://i.imgur.com/M3ofIpW.jpg) ![@ScriptEdOrg on Instagram](http://i.imgur.com/jYKXOgJ.jpg) ![@ScriptEdOrg on Snapchat](http://i.imgur.com/Y7kWLen.jpg)
+
