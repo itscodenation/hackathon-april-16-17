@@ -26,7 +26,7 @@ Time                | Activity
 5:00pm              | Projects due: Projects submitted after 5pm are disqualified
 5:10pm              | Judging begins (Students present projects at table)
 5:45pm              | Dinner: Pizza   
-6:00pm              | Finalists present (5 teams) 
+6:00pm              | Finalists present (6 teams) 
 6:50pm              | Judges deliberate 
 7:10pm              | Prizes awarded 
 7:45pm              | Clean up 
