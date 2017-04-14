@@ -1,4 +1,4 @@
-# ScriptEd Hackathon May 2017!
+# ScriptEd Hackathon April 2017!
 ![Imgur](http://i.imgur.com/RecSfOa.jpg)
 
 **Theme:** _SUPER SEKRIT THEME WILL BE REVEALED ON HACKATHON DAY_
