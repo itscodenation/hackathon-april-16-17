@@ -9,8 +9,8 @@ You will use your coding skills, your creativity, your experiences to design pro
 
 **Hackathon Sites**
 
-[Google: Watertower](location/Watertower.md)| [Google: Spire](location/Spire.md)
---------------------------------------------|----------------------------------------
+[Google: Watertower](location/Watertower.md)| [Google: Spire](location/Spire.md)| [San Francisco](location/San%20Francisco.md)
+--------------------------------------------|-----------------------------------|-------------------------------------------------|
 
 **Cloud 9 Sign Ups**
 
