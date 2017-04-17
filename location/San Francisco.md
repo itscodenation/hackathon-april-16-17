@@ -4,7 +4,7 @@
 **Submit Projects Here**
 [Project Submission Form](https://goo.gl/forms/xyELC2F1QniFd6Rw1)
 
-**Project must be submitted before 5:00pm**
+**Project must be submitted before 4:30pm**
 
 
 All submitted project can be found [here](https://docs.google.com/spreadsheets/d/1WmpA-rSj55cCDuPvH3QCEkqC766Ol-D4hNYs3kcAsdI/edit#gid=1633102332)
@@ -24,7 +24,7 @@ Time                | Activity
 11:00am             | Teams get laptops  
 11:45am             | Lunch  
 4:30pm              | Projects due: Projects submitted after 4:30 are disqualified
-5:45pm              | Student Presentation & Judging begins
+4:45pm              | Student Presentation & Judging begins
 5:30pm              | Judges Deliberate  
 5:50pm              | Prizes awarded 
 6:00pm              | Clean up & Goodbye
