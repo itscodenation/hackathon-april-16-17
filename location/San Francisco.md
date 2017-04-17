@@ -23,9 +23,9 @@ Time                | Activity
 10:15am             | Teams start wireframing & planning      
 11:00am             | Teams get laptops  
 11:45am             | Lunch  
-5:00pm              | Projects due: Projects submitted after 5pm are disqualified
-5:05pm              | Student Presentation & Judging begins
-5:40pm              | Judges Deliberate  
+4:30pm              | Projects due: Projects submitted after 4:30 are disqualified
+5:45pm              | Student Presentation & Judging begins
+5:30pm              | Judges Deliberate  
 5:50pm              | Prizes awarded 
 6:00pm              | Clean up & Goodbye
 
