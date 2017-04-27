@@ -22,7 +22,7 @@ All teams will be judged on [this rubric](https://docs.google.com/document/d/1aN
 
 **Social Media**
 
-We will be doing a raffle at the end of the day so submit via twitter & instagram using #scriptedhackathon or tag us @scriptedorg
+We will be doing a raffle at the end of the day so submit via twitter & instagram using #scriptedfuture or tag us @scriptedorg
 
 ![@ScriptEdOrg on Twitter](http://i.imgur.com/M3ofIpW.jpg) ![@ScriptEdOrg on Instagram](http://i.imgur.com/jYKXOgJ.jpg) ![@ScriptEdOrg on Snapchat](http://i.imgur.com/Y7kWLen.jpg)
 
