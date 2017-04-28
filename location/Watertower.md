@@ -11,9 +11,11 @@ All submitted project can be found [here](https://docs.google.com/spreadsheets/d
 
 **Prizes**
 
-First Place - Samsung Chromebook
-Second Place - Amazon Fire Tablets
-Third Place - Bluetooth Speakers
+Place                | Prize        
+---------------------|------------------
+First Place          | Samsung Chromebook   
+Second Place         | Amazon Fire Tablets   
+Third Place          | Bluetooth Speakers
 
 
 
